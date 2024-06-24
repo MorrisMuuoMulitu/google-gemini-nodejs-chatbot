@@ -6,7 +6,7 @@ import prompt from 'prompt-sync';
 const promptSync = prompt();
 
 const MODEL_NAME = "gemini-1.0-pro";
-const API_KEY = "YOUR_API_KEY";
+const API_KEY = "https://aistudio.google.com/app/apikey - MY API KEY";
 const GENERATION_CONFIG = {
     temperature: 0.9,
     topK: 1,
